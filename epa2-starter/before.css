@@ -14,3 +14,5 @@ table.layout td { vertical-align: top; padding: 4px 18px 4px 0; }
 .foot svg { width: 14px; height: 14px; fill: #6b4a36; margin-right: 8px; }
 input, textarea { border: 1px solid #eee; padding: 6px; width: 300px; color: #bbb; font-family: inherit; }
 ::placeholder { color: #ddd; }
+.skip-link { position: absolute; left: -9999px; }
+.skip-link:focus { left: 10px; top: 10px; background: #fff; color: #3b2a20; padding: 8px; z-index: 10; }
