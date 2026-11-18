@@ -7,7 +7,7 @@ Coursework for CM501, Software Engineering, 3rd semester.
 | Folder | What it is |
 |---|---|
 | [`epa1-profile-site/`](epa1-profile-site/) | Personal profile website, written by hand in HTML and CSS |
-| [`epa1-delivery-report/`](epa1-delivery-report/) | Web performance report on eKosova, made with Chrome DevTools |
+| [`epa1-delivery-report/`](epa1-delivery-report/REPORT.md) | Web performance report on eKosova, made with Chrome DevTools |
 
 ## Profile site
 
