@@ -1,0 +1,45 @@
+/* Simple shared styles for the profile site */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: #222;
+  background: #f7f7f7;
+}
+
+header {
+  background: #1f3a5f;
+  padding: 12px 24px;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 16px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 700px;
+  margin: 32px auto;
+  padding: 0 24px;
+}
+
+h1 {
+  color: #1f3a5f;
+}
+
+a {
+  color: #1f6feb;
+}
+
+footer {
+  text-align: center;
+  padding: 16px;
+  color: #666;
+  font-size: 0.9em;
+}
